@@ -3,7 +3,7 @@
 
 #define MAX 1024
 SOCKET clients[MAX];
-int count;
+int count = 0;
 
 int main()
 {
