@@ -5,6 +5,10 @@ VisualStudioVersion = 16.0.31129.286
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ChatRoomSelect", "ChatRoomSelect\ChatRoomSelect.vcxproj", "{5DF8D636-0E62-4B95-B5E3-EEC2F7CA8805}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "ChatRoomSelect2", "ChatRoomSelect2\ChatRoomSelect2.vcxproj", "{44CBE349-4420-4B61-AC86-AA17F62D7DC7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "NonBlockingSelect", "NonBlockingSelect\NonBlockingSelect.vcxproj", "{62965B52-F37D-4C77-BBFB-0BEA74EBAB56}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +25,22 @@ Global
 		{5DF8D636-0E62-4B95-B5E3-EEC2F7CA8805}.Release|x64.Build.0 = Release|x64
 		{5DF8D636-0E62-4B95-B5E3-EEC2F7CA8805}.Release|x86.ActiveCfg = Release|Win32
 		{5DF8D636-0E62-4B95-B5E3-EEC2F7CA8805}.Release|x86.Build.0 = Release|Win32
+		{44CBE349-4420-4B61-AC86-AA17F62D7DC7}.Debug|x64.ActiveCfg = Debug|x64
+		{44CBE349-4420-4B61-AC86-AA17F62D7DC7}.Debug|x64.Build.0 = Debug|x64
+		{44CBE349-4420-4B61-AC86-AA17F62D7DC7}.Debug|x86.ActiveCfg = Debug|Win32
+		{44CBE349-4420-4B61-AC86-AA17F62D7DC7}.Debug|x86.Build.0 = Debug|Win32
+		{44CBE349-4420-4B61-AC86-AA17F62D7DC7}.Release|x64.ActiveCfg = Release|x64
+		{44CBE349-4420-4B61-AC86-AA17F62D7DC7}.Release|x64.Build.0 = Release|x64
+		{44CBE349-4420-4B61-AC86-AA17F62D7DC7}.Release|x86.ActiveCfg = Release|Win32
+		{44CBE349-4420-4B61-AC86-AA17F62D7DC7}.Release|x86.Build.0 = Release|Win32
+		{62965B52-F37D-4C77-BBFB-0BEA74EBAB56}.Debug|x64.ActiveCfg = Debug|x64
+		{62965B52-F37D-4C77-BBFB-0BEA74EBAB56}.Debug|x64.Build.0 = Debug|x64
+		{62965B52-F37D-4C77-BBFB-0BEA74EBAB56}.Debug|x86.ActiveCfg = Debug|Win32
+		{62965B52-F37D-4C77-BBFB-0BEA74EBAB56}.Debug|x86.Build.0 = Debug|Win32
+		{62965B52-F37D-4C77-BBFB-0BEA74EBAB56}.Release|x64.ActiveCfg = Release|x64
+		{62965B52-F37D-4C77-BBFB-0BEA74EBAB56}.Release|x64.Build.0 = Release|x64
+		{62965B52-F37D-4C77-BBFB-0BEA74EBAB56}.Release|x86.ActiveCfg = Release|Win32
+		{62965B52-F37D-4C77-BBFB-0BEA74EBAB56}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
